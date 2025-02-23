@@ -1,1 +1,3 @@
-# garbage-classifier
+yolov5
+paho-mqtt
+mysql-connector-python
